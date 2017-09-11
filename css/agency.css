@@ -529,8 +529,8 @@ ul.social-buttons {
     background-color: #215739; }
   .btn-primary:hover {
     color: white;
-    border-color: #f6bf01;
-    background-color: #215739; }
+    border-color: #2e6e4a;
+    background-color: #2e6e4a; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
