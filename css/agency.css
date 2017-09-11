@@ -11,7 +11,7 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #2e6e4a; }
   a.active, a:active, a:focus, a:hover {
     color: #fec503; }
 
@@ -61,7 +61,7 @@ body {
   -webkit-tap-highlight-color: #fed136; }
 
 #mainNav {
-  background-color: #222222; }
+  background-color: #000000; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -73,7 +73,7 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #fed136;
+    color: #2e6e4a;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
@@ -86,7 +86,7 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #fed136; }
+      color: #2e6e4a; }
 
 @media (min-width: 992px) {
   #mainNav {
