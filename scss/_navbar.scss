@@ -1,12 +1,12 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-darker;
+  background-color: $white;
   .navbar-toggler {
     font-size: 12px;
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: black;
     border: 0;
     background-color: $theme-primary;
     @include heading-font;
